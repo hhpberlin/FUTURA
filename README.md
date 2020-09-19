@@ -1,37 +1,13 @@
 ## Welcome to Futura
 
-You can use the [editor on GitHub](https://github.com/hhpberlin/Futura/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We worked five years: On future scenarios and the challenges of our world for public safety.
+We are pleased to invite you today to become citizens of our city: Drop by and join us!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The city is still under construction but you can be there live as it is gradually brought to life - and actively participate!
 
-### Markdown
+![](https://static.wixstatic.com/media/0bc06f_6579be774d3442d58649b55208484072~mv2.jpg/v1/fill/w_1110,h_569,al_c,q_90,usm_0.66_1.00_0.01/0bc06f_6579be774d3442d58649b55208484072~mv2.webp)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://static.wixstatic.com/media/0bc06f_6af9d84fda824fe2bd78dca0aaf59065~mv2.png/v1/fill/w_1110,h_624,al_c,q_90,usm_0.66_1.00_0.01/0bc06f_6af9d84fda824fe2bd78dca0aaf59065~mv2.webp)
 
-```markdown
-Syntax highlighted code block
+Our format matchbox is located within FUTURA. Here, the opportunities and challenges of megatrends in the context of public safety are available in condensed form as interactive experiments. Analog, virtual or digital.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hhpberlin/Futura/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
